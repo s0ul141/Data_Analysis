@@ -1,4 +1,8 @@
 ## Report 
+
+![PIC_1](https://github.com/user-attachments/assets/8f1150ae-383b-4fc8-884c-d97a4b274236)
+
+  
 1. Salary Slab vs Job Satisfaction vs Education (Top Left):
 This graph shows the relationship between salary ranges, job satisfaction, and education levels. Each salary slab is represented by a cluster of bars, with different colors likely indicating education levels. Job satisfaction seems to vary across salary ranges and education levels, without a clear linear trend. The highest job satisfaction appears in the "Upto 5k" salary range for one education level. There's considerable variation within each salary slab, suggesting that factors beyond salary influence job satisfaction.
 
@@ -11,8 +15,7 @@ This line graph shows the average job satisfaction for each salary range. Intere
 4. Education vs Salary Slab (Bottom Right):
 This graph illustrates how salary levels change with education. The y-axis seems to be fixed at the "5k-10k" salary range, which limits the interpretation. However, the downward trend of the line suggests that as education level increases, the likelihood of being in the "5k-10k" salary range decreases. This implies that higher education is generally associated with higher salary ranges, though the full picture isn't visible due to the limited y-axis.
 
-![PIC_1](https://github.com/user-attachments/assets/8f1150ae-383b-4fc8-884c-d97a4b274236)
-
+![PIC_2](https://github.com/user-attachments/assets/69a0477b-dff1-4c55-8372-0b16c02a7c82)
 This graph depicts job satisfaction across different education fields, comparing males and females. Here's an analysis of the key points:
 
 1. Overall trends:
@@ -44,4 +47,33 @@ This graph depicts job satisfaction across different education fields, comparing
    - The Human Resources field might have qualities that particularly appeal to or benefit female workers.
 
 Overall, this graph provides a nuanced view of job satisfaction across education fields and genders, highlighting both similarities and differences. It emphasizes the importance of considering multiple factors when analyzing job satisfaction in various professional domains.
-![PIC_2](https://github.com/user-attachments/assets/69a0477b-dff1-4c55-8372-0b16c02a7c82)
+
+![corr](https://github.com/user-attachments/assets/b75adf54-92a3-4a04-a8fc-97fedbb26500)
+Correlation Matrix:
+1. Strong positive correlations:
+   - Monthly Income and Job Level (0.95)
+   - SS (likely Salary Satisfaction) and Monthly Income (0.96)
+   - SS and Job Level (0.91)
+   - Years at Company and Years in Current Role (0.76)
+
+2. Moderate positive correlations:
+   - Age and Monthly Income (0.50)
+   - Age and Job Level (0.51)
+   - Years at Company and Job Level (0.54)
+
+3. Weak or no correlations:
+   - Job Satisfaction shows very weak or no correlation with most other factors, which is surprising
+   - Education has weak positive correlations with most factors
+   - Performance Rating has weak or no correlations with other factors
+
+4. Interesting observations:
+   - Age correlates positively with Monthly Income, Job Level, and Years at Company, as expected
+   - Education doesn't strongly correlate with income or job level, which is somewhat unexpected
+   - Job Involvement doesn't show strong correlations with other factors
+
+5. Potential insights:
+   - Career progression (Job Level, Monthly Income, SS) seems more tied to tenure and age than to education or performance ratings
+   - Job satisfaction appears to be independent of most other factors, suggesting it's influenced by unmeasured variables
+
+This correlation matrix provides valuable insights into the relationships between various job-related factors, highlighting the complex nature of career progression and job satisfaction. It suggests that traditional metrics like salary and job level are closely related.
+
