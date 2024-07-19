@@ -12,3 +12,36 @@ This line graph shows the average job satisfaction for each salary range. Intere
 This graph illustrates how salary levels change with education. The y-axis seems to be fixed at the "5k-10k" salary range, which limits the interpretation. However, the downward trend of the line suggests that as education level increases, the likelihood of being in the "5k-10k" salary range decreases. This implies that higher education is generally associated with higher salary ranges, though the full picture isn't visible due to the limited y-axis.
 
 ![PIC_1](https://github.com/user-attachments/assets/8f1150ae-383b-4fc8-884c-d97a4b274236)
+
+This graph depicts job satisfaction across different education fields, comparing males and females. Here's an analysis of the key points:
+
+1. Overall trends:
+   - Job satisfaction varies across education fields for both genders.
+   - In most fields, the satisfaction levels are relatively similar between males and females.
+
+2. Field-specific observations:
+   - Life Sciences and Marketing show nearly identical satisfaction levels for both genders.
+   - Medical field has higher satisfaction for males compared to females.
+   - Technical Degree and "Other" categories show slightly higher satisfaction for males.
+   - Human Resources is the only field where females report notably higher satisfaction than males.
+
+3. Gender differences:
+   - The most significant gender gap is in Human Resources, favoring females.
+   - The Medical field shows the largest gap favoring males.
+   - Other fields show smaller differences between genders.
+
+4. Satisfaction levels:
+   - Most fields have satisfaction levels between 3.0 and 4.0 for both genders.
+   - No field shows extremely low satisfaction (below 2.0) for either gender.
+
+5. Data representation:
+   - The use of box plots suggests there's variability in satisfaction within each group, though the exact spread isn't clear from this visualization.
+   - The median (horizontal line in each bar) provides a good comparison point between groups.
+
+6. Implications:
+   - The data challenges simplistic narratives about gender satisfaction in different fields.
+   - It suggests that factors beyond gender play significant roles in job satisfaction within education fields.
+   - The Human Resources field might have qualities that particularly appeal to or benefit female workers.
+
+Overall, this graph provides a nuanced view of job satisfaction across education fields and genders, highlighting both similarities and differences. It emphasizes the importance of considering multiple factors when analyzing job satisfaction in various professional domains.
+![PIC_2](https://github.com/user-attachments/assets/69a0477b-dff1-4c55-8372-0b16c02a7c82)
