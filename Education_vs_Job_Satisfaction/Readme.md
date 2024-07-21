@@ -155,3 +155,27 @@ General observations:
 - The 55+ group shows more variability and some declines, possibly reflecting diverse late-career paths.
 
 These graphs provide insights into career trajectories and gender differences across different age groups, highlighting both progress in gender equality and areas where disparities persist, especially in income.
+![PIC_6](https://github.com/user-attachments/assets/4864b6a2-1260-47ba-94e9-9bdeec1359f8)
+This is a graph, which is depicting the relationship between age, job level, and monthly income. Here are the key observations:
+
+1. Job Levels: The graph shows 5 job levels, ranging from 1 to 5.
+
+2. Age Groups: There are 5 age groups represented: 18-25, 26-35, 36-45, 46-55, and 55+.
+
+3. Income Trend: Generally, monthly income increases with job level across all age groups.
+
+4. Age Impact: Within each job level, there are some variations in income based on age, but the differences are not consistent across all levels.
+
+5. Entry Level (1): Shows the smallest income differences between age groups, with a slight upward trend as age increases.
+
+6. Mid Levels (2-3): Display more variation between age groups, with middle age ranges often earning slightly more.
+
+7. Upper Levels (4-5): Show the most significant income differences. At level 5, the older age groups tend to earn more.
+
+8. Highest Incomes: Are seen at job level 5, particularly for the 36+ age groups.
+
+9. Youngest Group (18-25): Consistently has lower incomes across job levels 1-2, and is absent from levels 3-5.
+
+10. Oldest Group (55+): Shows varied performance, sometimes earning the most (level 5) and sometimes less than younger groups (level 4).
+
+This graph illustrates how both job level and age can influence monthly income, with job level appearing to have a stronger overall impact on earnings.
