@@ -118,3 +118,40 @@ This graph displays the relationship between job satisfaction, education level, 
    - Some fields may benefit more from advanced education than others in terms of job satisfaction.
 
 This graph highlights the complexity of job satisfaction and its relationship to education. It suggests that career guidance and educational decisions should consider field-specific trends rather than assuming a universal benefit to higher education levels.
+
+
+![PIC_5](https://github.com/user-attachments/assets/d646f22b-e9fd-4980-ac80-5b8a1ebabfe9)
+In this image we have four graphs comparing various career-related factors across age groups and genders. Here's an analysis of each graph:
+
+1. Age vs Job Level:
+- Job level increases with age for both genders.
+- Males have slightly higher job levels in younger age groups (18-45).
+- Females catch up and slightly surpass males in job level for the 55+ age group.
+- The peak job level is reached in the 46-55 age group for both genders.
+
+2. Age vs Monthly Income:
+- Income generally increases with age for both genders.
+- Males have higher incomes across all age groups, with the gap widening in middle age (36-55).
+- The income peak is in the 46-55 age group for both genders.
+- There's a slight decrease in income for the 55+ group, more pronounced for males.
+
+3. Age vs Years At Company:
+- Years at the company naturally increase with age.
+- The trend is similar for both genders, with females showing slightly higher tenure in older age groups.
+- The 46-55 age group shows the highest average years at the company.
+- There's a slight decrease in tenure for the 55+ group, possibly due to retirement or career changes.
+
+4. Age vs Years In Current Role:
+- Years in the current role generally increase with age.
+- Females tend to have slightly more years in their current role across most age groups.
+- The increase is less steep compared to overall company tenure, suggesting role changes within the company.
+- The 55+ group shows high variability, with some staying in roles longer while others might transition to new roles.
+
+General observations:
+- There's a consistent pattern of career progression with age for both genders.
+- Gender disparities are most noticeable in income, with males generally earning more.
+- Job levels and company tenure show more equality between genders, especially in later career stages.
+- The 46-55 age group often represents the peak for various career metrics.
+- The 55+ group shows more variability and some declines, possibly reflecting diverse late-career paths.
+
+These graphs provide insights into career trajectories and gender differences across different age groups, highlighting both progress in gender equality and areas where disparities persist, especially in income.
