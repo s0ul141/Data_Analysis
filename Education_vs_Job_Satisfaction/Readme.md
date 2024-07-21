@@ -77,3 +77,44 @@ Correlation Matrix:
 
 This correlation matrix provides valuable insights into the relationships between various job-related factors, highlighting the complex nature of career progression and job satisfaction. It suggests that traditional metrics like salary and job level are closely related.
 
+![PIC_4](https://github.com/user-attachments/assets/8a430ac3-8012-498c-959a-c058d0e95686)
+This graph displays the relationship between job satisfaction, education level, and education field. Here's an analysis:
+
+1. Overall trends:
+   - Job satisfaction varies across education levels and fields.
+   - There's no clear linear trend between education level and job satisfaction for most fields.
+
+2. Education levels:
+   - Ranges from 1 to 5, likely representing different degree levels (e.g., high school, bachelor's, master's, etc.).
+   - The impact of education level on job satisfaction differs by field.
+
+3. Education fields:
+   - Six fields are represented: Life Sciences, Medical, Marketing, Technical Degree, Other, and Human Resources.
+   - Each field shows different patterns across education levels.
+
+4. Field-specific observations:
+   - Life Sciences: Relatively stable satisfaction across education levels.
+   - Medical: Highest satisfaction at level 2, lowest at level 5.
+   - Marketing: Fairly consistent across levels, slight peak at level 4.
+   - Technical Degree: Increases with education level, peaks at level 5.
+   - Other: Varies considerably, highest at level 1.
+   - Human Resources: Highly variable, peaks at level 1, lowest at level 5.
+
+5. Variability:
+   - Error bars indicate significant variability within each category.
+   - Some fields (e.g., Human Resources) show more variability than others.
+
+6. Highest satisfaction:
+   - Technical Degree at education level 5 shows the highest overall satisfaction.
+   - Human Resources at level 1 also shows very high satisfaction.
+
+7. Lowest satisfaction:
+   - Human Resources at level 5 shows the lowest satisfaction.
+   - Medical field at level 5 also shows relatively low satisfaction.
+
+8. Implications:
+   - The relationship between education and job satisfaction is complex and field-dependent.
+   - Higher education doesn't always correlate with higher job satisfaction.
+   - Some fields may benefit more from advanced education than others in terms of job satisfaction.
+
+This graph highlights the complexity of job satisfaction and its relationship to education. It suggests that career guidance and educational decisions should consider field-specific trends rather than assuming a universal benefit to higher education levels.
