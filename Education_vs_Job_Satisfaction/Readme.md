@@ -197,5 +197,25 @@ Key observations:
 3. There's a general trend of increasing years in current role as years at the company increase, though it's not a perfect correlation.
 4. The graph shows data points up to 40 years at the company, with some employees in the 55+ category having the longest tenures.
 5. There's considerable variation in years in current role across all age groups and company tenures.
-
 This visualization helps understand employee retention, promotion patterns, and how age relates to company and role tenure.
+
+![PIC_8](https://github.com/user-attachments/assets/b7b77b50-90a3-4685-802d-b3f71e21a369)
+
+This graph illustrates the relationship between job levels and monthly income. Here are the key points:
+
+1. The x-axis represents job levels from 1 to 5, likely indicating increasing seniority or responsibility.
+
+2. The y-axis shows monthly income, ranging from 0 to 20,000 (presumably in a given currency).
+
+3. There's a clear positive correlation between job level and monthly income:
+   - Level 1: Approximately 2,500 per month
+   - Level 2: Around 5,500 per month
+   - Level 3: About 10,000 per month
+   - Level 4: Roughly 15,500 per month
+   - Level 5: Nearly 20,000 per month
+
+4. The increase in income is relatively consistent between levels, with each step up representing about a 5,000 increase in monthly income.
+
+5. The color gradient of the bars darkens as the job level increases, visually reinforcing the progression.
+
+This graph effectively demonstrates how income typically scales with job level within this organization or industry, showing a clear financial incentive for career advancement.
