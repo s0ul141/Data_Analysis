@@ -179,3 +179,23 @@ This is a graph, which is depicting the relationship between age, job level, and
 10. Oldest Group (55+): Shows varied performance, sometimes earning the most (level 5) and sometimes less than younger groups (level 4).
 
 This graph illustrates how both job level and age can influence monthly income, with job level appearing to have a stronger overall impact on earnings.
+![PIC_7](https://github.com/user-attachments/assets/d55583b7-45ee-4898-a701-dd398db8cd4d)
+
+This graph shows the relationship between an employee's age, years at the company, and years in their current role.
+
+The x-axis represents "Years At Company" ranging from 0 to 40 years. The y-axis shows "Years in Current Role" up to about 16 years. Different age groups are represented by color-coded bars:
+
+- 18-25 (blue)
+- 26-35 (teal)
+- 36-45 (light green)
+- 46-55 (beige)
+- 55+ (orange)
+
+Key observations:
+1. Younger employees (blue and teal) are more prevalent in the early years at the company.
+2. As years at the company increase, we see more representation from older age groups.
+3. There's a general trend of increasing years in current role as years at the company increase, though it's not a perfect correlation.
+4. The graph shows data points up to 40 years at the company, with some employees in the 55+ category having the longest tenures.
+5. There's considerable variation in years in current role across all age groups and company tenures.
+
+This visualization helps understand employee retention, promotion patterns, and how age relates to company and role tenure.
