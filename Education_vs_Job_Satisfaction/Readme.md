@@ -219,3 +219,21 @@ This graph illustrates the relationship between job levels and monthly income. H
 5. The color gradient of the bars darkens as the job level increases, visually reinforcing the progression.
 
 This graph effectively demonstrates how income typically scales with job level within this organization or industry, showing a clear financial incentive for career advancement.
+![PIC_9](https://github.com/user-attachments/assets/bdd2cfe3-6eb5-4647-b167-437d752dcd13)
+These graphs illustrate the relationships between job levels and two different metrics: years at the company and years in the current role.
+
+Top Graph - Job Level vs Years At Company:
+1. Shows a clear positive correlation between job level and years at the company.
+2. As job level increases from 1 to 5, the average years at the company steadily rises.
+3. Level 1 employees average about 4 years at the company, while level 5 employees average around 15 years.
+4. The increase is relatively consistent between levels, with each step up representing about 2-3 years more at the company.
+5. Error bars indicate some variation within each level.
+
+Bottom Graph - Job Level vs Years In Current Role:
+1. Also shows a positive correlation, but less pronounced than the top graph.
+2. Employees at level 1 have been in their current role for about 2.5 years on average.
+3. There's a significant jump between levels 1 and 2, with level 2 employees averaging about 4.5 years in their current role.
+4. The increase becomes more gradual for higher levels, with level 5 employees averaging about 6.5 years in their current role.
+5. Error bars are larger for higher levels, suggesting more variation in time spent in roles at senior levels.
+
+Overall, these graphs suggest that as employees progress to higher job levels, they tend to have spent more time both at the company and in their current roles. However, the increase in years at the company is more pronounced than the increase in years in the current role, implying that career progression often involves moving to new roles within the company.
