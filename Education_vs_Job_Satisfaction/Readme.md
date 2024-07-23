@@ -248,3 +248,32 @@ Key observations:
 4. The densest cluster of data points is in the 5-20 year range for company tenure and 2-10 year range for time in current role.
 5. Some employees have been in their current roles for a very long time (up to 16 years), while others in similar tenure brackets have much less time in their current positions.
 This visualization provides insights into employee retention, promotion patterns, and career progression within the company.
+![PIC_11](https://github.com/user-attachments/assets/e309e36d-f3fe-40a5-975c-4b60a8274a05)
+[11] This image contains four graphs showing relationships between years of experience, monthly income, and gender in a company:
+
+1. Top-left: Bar chart of Monthly Income vs Years in Current Role, split by gender
+- Generally shows increasing income with more years in role
+- Some fluctuations, but overall upward trend
+- Gender differences visible, with males often having higher income for same years in role
+
+2. Top-right: Line graph of Monthly Income vs Years in Current Role
+- Confirms overall upward trend of income with years in role
+- Shows variability (wider shaded area) increasing for longer tenures
+
+3. Bottom-left: Bar chart of Monthly Income vs Years at Company, split by gender
+- Similar to top-left, but for total company tenure instead of current role
+- Shows general increase in income with longer company tenure
+- Gender differences again visible, with some exceptions
+
+4. Bottom-right: Line graph of Monthly Income vs Years at Company
+- Demonstrates overall increase in income with company tenure
+- High variability for longer tenures
+- Slight downward trend for very long tenures (35+ years)
+
+Key observations:
+- Income generally increases with both years in current role and total years at company
+- Gender differences in income are present, often favoring males
+- Income variability increases with longer tenures
+- Some unexpected drops or plateaus in income for certain experience levels
+
+These visualizations provide insights into salary progression, gender pay differences, and the relationship between experience and income in the company.
