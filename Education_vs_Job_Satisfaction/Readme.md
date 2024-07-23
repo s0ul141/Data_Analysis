@@ -237,3 +237,14 @@ Bottom Graph - Job Level vs Years In Current Role:
 5. Error bars are larger for higher levels, suggesting more variation in time spent in roles at senior levels.
 
 Overall, these graphs suggest that as employees progress to higher job levels, they tend to have spent more time both at the company and in their current roles. However, the increase in years at the company is more pronounced than the increase in years in the current role, implying that career progression often involves moving to new roles within the company.
+
+![PIC_10](https://github.com/user-attachments/assets/fadd2e92-9b54-4b87-8c93-a96943294527)
+[10] This image shows a scatter plot comparing employees' years at a company, years in their current role, and job level within the organization.
+The x-axis represents "Years At Company", ranging from 0 to 40 years. The y-axis shows "Years in Current Role", going up to 16 years. Each data point is color-coded to represent the employee's job level, with 5 levels indicated in the legend.
+Key observations:
+1. There's a general upward trend, suggesting that employees who have been with the company longer tend to have spent more time in their current roles.
+2. Job levels appear somewhat correlated with company tenure, as higher-level positions (4 and 5) are more common among those with longer company tenures.
+3. There's significant variation in years in current role across all job levels and years at the company, indicating diverse career paths within the organization.
+4. The densest cluster of data points is in the 5-20 year range for company tenure and 2-10 year range for time in current role.
+5. Some employees have been in their current roles for a very long time (up to 16 years), while others in similar tenure brackets have much less time in their current positions.
+This visualization provides insights into employee retention, promotion patterns, and career progression within the company.
