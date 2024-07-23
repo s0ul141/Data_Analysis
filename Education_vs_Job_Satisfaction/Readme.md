@@ -2,7 +2,7 @@
 
 ![PIC_1](https://github.com/user-attachments/assets/8f1150ae-383b-4fc8-884c-d97a4b274236)
 
-In this picture we have four differemt Salary Slab vs Job Satisfaction vs Education (Top Left), Education vs Job Satisfaction (Top Right), Salary Slab vs Job Satisfaction (Bottom Left) and  Education vs Salary Slab (Bottom Right) which are described below in details.
+[1] In this picture we have four differemt Salary Slab vs Job Satisfaction vs Education (Top Left), Education vs Job Satisfaction (Top Right), Salary Slab vs Job Satisfaction (Bottom Left) and  Education vs Salary Slab (Bottom Right) which are described below in details.
 1. Salary Slab vs Job Satisfaction vs Education (Top Left):
 This graph shows the relationship between salary ranges, job satisfaction, and education levels. Each salary slab is represented by a cluster of bars, with different colors likely indicating education levels. Job satisfaction seems to vary across salary ranges and education levels, without a clear linear trend. The highest job satisfaction appears in the "Upto 5k" salary range for one education level. There's considerable variation within each salary slab, suggesting that factors beyond salary influence job satisfaction.
 
@@ -16,7 +16,7 @@ This line graph shows the average job satisfaction for each salary range. Intere
 This graph illustrates how salary levels change with education. The y-axis seems to be fixed at the "5k-10k" salary range, which limits the interpretation. However, the downward trend of the line suggests that as education level increases, the likelihood of being in the "5k-10k" salary range decreases. This implies that higher education is generally associated with higher salary ranges, though the full picture isn't visible due to the limited y-axis.
 
 ![PIC_2](https://github.com/user-attachments/assets/69a0477b-dff1-4c55-8372-0b16c02a7c82)
-This graph depicts job satisfaction across different education fields, comparing males and females. Here's an analysis of the key points:
+[2] This graph depicts job satisfaction across different education fields, comparing males and females. Here's an analysis of the key points:
 
 1. Overall trends:
    - Job satisfaction varies across education fields for both genders.
@@ -49,7 +49,7 @@ This graph depicts job satisfaction across different education fields, comparing
 Overall, this graph provides a nuanced view of job satisfaction across education fields and genders, highlighting both similarities and differences. It emphasizes the importance of considering multiple factors when analyzing job satisfaction in various professional domains.
 
 ![corr](https://github.com/user-attachments/assets/b75adf54-92a3-4a04-a8fc-97fedbb26500)
-Correlation Matrix:
+[3] Correlation Matrix:
 1. Strong positive correlations:
    - Monthly Income and Job Level (0.95)
    - SS (likely Salary Satisfaction) and Monthly Income (0.96)
@@ -78,7 +78,7 @@ Correlation Matrix:
 This correlation matrix provides valuable insights into the relationships between various job-related factors, highlighting the complex nature of career progression and job satisfaction. It suggests that traditional metrics like salary and job level are closely related.
 
 ![PIC_4](https://github.com/user-attachments/assets/8a430ac3-8012-498c-959a-c058d0e95686)
-This graph displays the relationship between job satisfaction, education level, and education field. Here's an analysis:
+[4] This graph displays the relationship between job satisfaction, education level, and education field. Here's an analysis:
 
 1. Overall trends:
    - Job satisfaction varies across education levels and fields.
@@ -121,7 +121,7 @@ This graph highlights the complexity of job satisfaction and its relationship to
 
 
 ![PIC_5](https://github.com/user-attachments/assets/d646f22b-e9fd-4980-ac80-5b8a1ebabfe9)
-In this image we have four graphs comparing various career-related factors across age groups and genders. Here's an analysis of each graph:
+[5] In this image we have four graphs comparing various career-related factors across age groups and genders. Here's an analysis of each graph:
 
 1. Age vs Job Level:
 - Job level increases with age for both genders.
@@ -156,7 +156,7 @@ General observations:
 
 These graphs provide insights into career trajectories and gender differences across different age groups, highlighting both progress in gender equality and areas where disparities persist, especially in income.
 ![PIC_6](https://github.com/user-attachments/assets/4864b6a2-1260-47ba-94e9-9bdeec1359f8)
-This is a graph, which is depicting the relationship between age, job level, and monthly income. Here are the key observations:
+[6] This is a graph, which is depicting the relationship between age, job level, and monthly income. Here are the key observations:
 
 1. Job Levels: The graph shows 5 job levels, ranging from 1 to 5.
 
@@ -181,7 +181,7 @@ This is a graph, which is depicting the relationship between age, job level, and
 This graph illustrates how both job level and age can influence monthly income, with job level appearing to have a stronger overall impact on earnings.
 ![PIC_7](https://github.com/user-attachments/assets/d55583b7-45ee-4898-a701-dd398db8cd4d)
 
-This graph shows the relationship between an employee's age, years at the company, and years in their current role.
+[7] This graph shows the relationship between an employee's age, years at the company, and years in their current role.
 
 The x-axis represents "Years At Company" ranging from 0 to 40 years. The y-axis shows "Years in Current Role" up to about 16 years. Different age groups are represented by color-coded bars:
 
@@ -201,7 +201,7 @@ This visualization helps understand employee retention, promotion patterns, and 
 
 ![PIC_8](https://github.com/user-attachments/assets/b7b77b50-90a3-4685-802d-b3f71e21a369)
 
-This graph illustrates the relationship between job levels and monthly income. Here are the key points:
+[8] This graph illustrates the relationship between job levels and monthly income. Here are the key points:
 
 1. The x-axis represents job levels from 1 to 5, likely indicating increasing seniority or responsibility.
 
@@ -220,7 +220,7 @@ This graph illustrates the relationship between job levels and monthly income. H
 
 This graph effectively demonstrates how income typically scales with job level within this organization or industry, showing a clear financial incentive for career advancement.
 ![PIC_9](https://github.com/user-attachments/assets/bdd2cfe3-6eb5-4647-b167-437d752dcd13)
-These graphs illustrate the relationships between job levels and two different metrics: years at the company and years in the current role.
+[9] These graphs illustrate the relationships between job levels and two different metrics: years at the company and years in the current role.
 
 Top Graph - Job Level vs Years At Company:
 1. Shows a clear positive correlation between job level and years at the company.
