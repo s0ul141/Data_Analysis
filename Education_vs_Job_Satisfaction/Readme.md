@@ -318,3 +318,27 @@ This graph displays a blue line representing the average years in current role o
 
 Both visualizations effectively illustrate the relationship between company tenure and role tenure, showing that generally, the longer an employee stays with the company, the longer they tend to remain in their current role, though this relationship is not strictly linear and shows variability.
 
+
+[14] ![PIC_14](https://github.com/user-attachments/assets/a7287787-5fa3-4186-bbc1-9655b5fc4a74)
+
+This image shows a bar chart titled "Age and Education Field" that displays data on education fields across different age groups.
+
+The x-axis represents age groups: 18-25, 26-35, 36-45, 46-55, and 55+.
+
+The y-axis shows a scale labeled "EF_code" ranging from 0 to 6, likely representing some form of education field coding or count.
+
+There are four categories of education fields represented by different colored bars:
+1. Blue (unlabeled in the image, but likely represents a field not specified in the legend)
+2. Teal - Medical
+3. Light Green - Technical Degree
+4. Orange - Human Resources
+
+Key observations:
+1. Technical Degree consistently has the highest representation across all age groups.
+2. Medical field representation is relatively consistent across age groups.
+3. Human Resources has the lowest representation in all age groups.
+4. The unlabeled blue category (possibly representing another field) shows consistent but lower representation across age groups.
+5. The distribution of education fields appears fairly similar across all age groups, suggesting little variation in field choice based on age.
+
+This visualization allows for easy comparison of education field preferences or representation across different age demographics in the studied population.
+
