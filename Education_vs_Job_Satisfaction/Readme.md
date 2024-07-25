@@ -270,6 +270,7 @@ This visualization provides insights into employee retention, promotion patterns
 - High variability for longer tenures
 - Slight downward trend for very long tenures (35+ years)
 
+
 Key observations:
 - Income generally increases with both years in current role and total years at company
 - Gender differences in income are present, often favoring males
@@ -277,3 +278,24 @@ Key observations:
 - Some unexpected drops or plateaus in income for certain experience levels
 
 These visualizations provide insights into salary progression, gender pay differences, and the relationship between experience and income in the company.
+
+[12] ![PIC_12](https://github.com/user-attachments/assets/ef70c363-695c-4065-b59d-e438fdc7dac0)
+
+This plot shows the relationship between monthly income, years at a company, and years in the current role for employees. Here's a detailed description:
+
+Title: "Monthly Income and Years At Company and Years In Current Role"
+
+X-axis: "YearsAtCompany" - ranging from 0 to 40 years
+Y-axis: "MonthlyIncome" - ranging from 0 to 20,000 (presumably in dollars or another currency unit)
+
+The plot uses vertical bars to represent individual employees or data points. Each bar's height indicates the monthly income, while its position on the x-axis shows the number of years at the company. The color of each bar represents the number of years in the current role, as indicated by the legend on the left side. The color scale ranges from light pink (0 years) to dark purple (18 years in current role).
+
+Key observations:
+1. There's a general trend of increasing income with more years at the company.
+2. The highest incomes tend to be associated with longer tenures at the company.
+3. There's significant variation in income even among employees with similar years of experience.
+4. Employees with more years in their current role (darker colors) are often, but not always, associated with higher incomes.
+5. There are fewer data points for very long tenures (30+ years).
+
+This visualization effectively combines three variables (income, company tenure, and role tenure) to provide insights into career progression and compensation within the organization.
+
