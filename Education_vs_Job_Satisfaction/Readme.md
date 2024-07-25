@@ -299,3 +299,22 @@ Key observations:
 
 This visualization effectively combines three variables (income, company tenure, and role tenure) to provide insights into career progression and compensation within the organization.
 
+[13] ![PIC_13](https://github.com/user-attachments/assets/d0337e79-3242-4a0b-8bbe-f2c32047593e)
+This image contains two plots that visualize the relationship between years at a company and years in the current role.
+
+1. Bar Chart (Top):
+Title: "Bar chart for Years At Company and Years In Current Role"
+X-axis: "YearsAtCompany" (0 to 40 years)
+Y-axis: "YearsInCurrentRole" (0 to 12 years)
+
+This chart shows colored bars representing the average years in current role for each year of company tenure. The bars are color-coded, transitioning from orange for fewer years at the company to pink for more years. The trend generally shows an increase in years in current role as years at the company increase, with some fluctuations.
+
+2. Line Graph (Bottom):
+Title: "Line Graph for Years At Company and Years In Current Role"
+X-axis: "YearsAtCompany" (0 to 40 years)
+Y-axis: "YearsInCurrentRole" (0 to 14 years)
+
+This graph displays a blue line representing the average years in current role over years at the company. The shaded area around the line likely represents a confidence interval or range of values. The line shows an overall upward trend, indicating that on average, employees tend to stay in their current roles longer as their tenure with the company increases. However, there are fluctuations and plateaus in this trend, especially after about 15 years at the company.
+
+Both visualizations effectively illustrate the relationship between company tenure and role tenure, showing that generally, the longer an employee stays with the company, the longer they tend to remain in their current role, though this relationship is not strictly linear and shows variability.
+
