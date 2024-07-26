@@ -345,7 +345,7 @@ This visualization allows for easy comparison of education field preferences or 
 [15] ![PIC_15](https://github.com/user-attachments/assets/af404ff5-36c1-42c2-9b8b-ea367de7793c) \
 Figure:\
 "Impact of Education on Job Satisfaction, Compensation, and Performance Metrics"\
-The image consists of four graphs comparing different aspects of job satisfaction and performance against education levels. \
+The figure consists of four graphs comparing different aspects of job satisfaction and performance against education levels. \
 Here's a description of each graph:
 
 1. Education vs Environment Satisfaction:
@@ -366,7 +366,7 @@ This set of graphs provides a comprehensive view of how different levels of educ
 [16] ![PIC_17](https://github.com/user-attachments/assets/3b01e5e1-68f8-4cd7-aeb8-3d0ae9e34480)\
 Figure:\
 "Comparison of Job Metrics Across Educational Fields"\
-This image contains four graphs comparing different job-related metrics across various education fields. Here's a description of each graph:
+This figure contains four graphs comparing different job-related metrics across various education fields. Here's a description of each graph:
 
 1. Education vs Job Involvement:
 This graph shows fluctuating job involvement levels across different education fields. There's a notable peak for the Medical field (EF_code 4) and a low point for Marketing (EF_code 3).
@@ -392,3 +392,22 @@ It's important to note that the x-axis (EF_code) represents different educationa
 6: Technical Degree
 
 This visualization allows for a comprehensive comparison of how these different educational backgrounds correlate with various job-related metrics.
+
+[17] ![PIC_18](https://github.com/user-attachments/assets/7eaaca5e-88b7-4e32-9d63-e2053fb3549a)\
+
+This image contains two graphs illustrating the relationship between Education Field and Monthly Income:
+
+1. Bar Chart for Education Field vs Monthly Income:
+This graph shows monthly income across different education fields using blue bars. The x-axis represents the education field codes (EF_code) from 1 to 6, corresponding to Human Resources, Life Sciences, Marketing, Medical, Other, and Technical Degree respectively. The y-axis shows monthly income. The bars indicate that Marketing (EF_code 3) has the highest monthly income, followed closely by Human Resources (EF_code 1). Technical Degree holders (EF_code 6) appear to have the lowest monthly income.
+
+2. Line Graph for Education Field vs Monthly Income:
+This graph presents the same data as a line chart, allowing for a clearer visualization of the trends. It confirms the observations from the bar chart, showing a peak for Marketing (EF_code 3) and a general downward trend towards Technical Degree holders (EF_code 6). Human Resources (EF_code 1) starts high, there's a dip for Life Sciences (EF_code 2), then a sharp rise for Marketing, followed by a consistent decline across Medical, Other, and Technical Degree fields.
+
+Key observations:
+- Marketing professionals appear to earn the highest monthly income.
+- There's a significant variation in income across different education fields.
+- Technical Degree holders seem to earn the least among the given categories.
+- The line graph shows more pronounced differences between fields compared to the bar chart.
+
+This visualization provides insights into how different educational backgrounds correlate with monthly income in various professional fields.
+
