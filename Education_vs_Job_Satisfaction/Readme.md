@@ -361,3 +361,34 @@ This graph depicts the relationship between education and monthly salary. Intere
 Performance ratings show slight variations across education levels. There's a small decline from Class 12 pass to graduate level, then a slight increase for post-graduates and PhDs.
 
 This set of graphs provides a comprehensive view of how different levels of education correlate with various aspects of job satisfaction and performance. It reveals some counterintuitive trends, particularly in monthly rates and satisfaction levels, which don't always increase with higher education levels.
+
+
+[16] ![PIC_17](https://github.com/user-attachments/assets/3b01e5e1-68f8-4cd7-aeb8-3d0ae9e34480)\
+Figure:\
+"Comparison of Job Metrics Across Educational Fields"\
+This image contains four graphs comparing different job-related metrics across various education fields. Here's a description of each graph:
+
+1. Education vs Job Involvement:
+This graph shows fluctuating job involvement levels across different education fields. There's a notable peak for the Medical field (EF_code 4) and a low point for Marketing (EF_code 3).
+
+2. Education vs Job Level:
+Job level appears to peak for Marketing (EF_code 3) and then steadily declines for subsequent fields, with Technical Degree holders having the lowest job level.
+
+3. Education vs Years At Company:
+This graph depicts the average years employees spend at the company across different fields. Marketing professionals (EF_code 3) show the longest tenure, while those in the "Other" category (EF_code 5) have the shortest.
+
+4. Education vs Years In Current Role:
+Years in current role peak for Marketing (EF_code 3) and then generally decline, with a slight uptick for Technical Degree holders (EF_code 6).
+
+
+These graphs provide insights into how different educational backgrounds relate to various aspects of employment, including job involvement, level, company tenure, and role duration. The data suggests that there are significant variations across different educational fields, with Marketing often standing out in terms of job level and tenure.
+
+It's important to note that the x-axis (EF_code) represents different educational fields:
+1: Human Resources
+2: Life Sciences
+3: Marketing
+4: Medical
+5: Other
+6: Technical Degree
+
+This visualization allows for a comprehensive comparison of how these different educational backgrounds correlate with various job-related metrics.
