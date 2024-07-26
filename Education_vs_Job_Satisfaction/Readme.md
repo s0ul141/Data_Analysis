@@ -342,3 +342,22 @@ Key observations:
 
 This visualization allows for easy comparison of education field preferences or representation across different age demographics in the studied population.
 
+[15] ![PIC_15](https://github.com/user-attachments/assets/af404ff5-36c1-42c2-9b8b-ea367de7793c) \
+Figure:\
+"Impact of Education on Job Satisfaction, Compensation, and Performance Metrics"\
+The image consists of four graphs comparing different aspects of job satisfaction and performance against education levels. \
+Here's a description of each graph:
+
+1. Education vs Environment Satisfaction:
+This graph shows a fluctuating relationship between education level and environment satisfaction. There's a peak for graduates (level 3) and a sharp decline for post-graduates and PhDs.
+
+2. Education vs Job Satisfaction:
+Job satisfaction appears to vary significantly across education levels. It starts high for Class 12 pass, drops for diploma holders, rises again for graduates, peaks for post-graduates, and then sharply declines for PhDs.
+
+3. Education vs Monthly Rate:
+This graph depicts the relationship between education and monthly salary. Interestingly, Class 12 pass holders have the highest monthly rate, followed by a sharp decline for diploma holders. The rate increases slightly for higher education levels but doesn't reach the initial peak.
+
+4. Education vs Performance Rating:
+Performance ratings show slight variations across education levels. There's a small decline from Class 12 pass to graduate level, then a slight increase for post-graduates and PhDs.
+
+This set of graphs provides a comprehensive view of how different levels of education correlate with various aspects of job satisfaction and performance. It reveals some counterintuitive trends, particularly in monthly rates and satisfaction levels, which don't always increase with higher education levels.
