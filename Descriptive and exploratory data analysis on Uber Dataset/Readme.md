@@ -33,15 +33,15 @@ This preparatory step was crucial for enabling the subsequent detailed temporal 
 ### 3.1 Hourly Analysis <a name="hourly-analysis"></a>
 
 We analyzed the distribution of rides across different hours of the day.
-
-![Trips Every Hour]()
+![Trips Every Hour](https://github.com/user-attachments/assets/1a60ed39-10f4-45d7-8815-aa122dd288ca)
 
 *Figure 1: Distribution of trips across 24 hours*
+This bar chart shows the number of Uber trips taken during each hour of the day. The x-axis represents the 24 hours of a day, while the y-axis shows the total number of trips. Key observations:
 
-Observations:
-- Peak hours appear to be around 8-9 AM and 5-7 PM, likely corresponding to morning and evening rush hours.
-- The lowest number of rides occurs in the early morning hours, between 2-5 AM.
-- There's a gradual increase in rides from 5 AM onwards, and a gradual decrease after 7 PM.
+- Peak hours are clearly visible, with the highest number of trips occurring around 6 PM (18:00).
+- There's another significant peak in the morning, around 8 AM (08:00).
+- The lowest number of trips occurs in the early morning hours, between 3 AM and 5 AM.
+- Trip volume gradually increases from early morning, peaks in the evening, and then declines into the night.
 
 We also examined how hourly patterns changed across different months.
 
