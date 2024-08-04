@@ -48,7 +48,9 @@ We also examined how hourly patterns changed across different months.
 ![Trips by Hour and Month](https://github.com/user-attachments/assets/b400a4bb-2b68-4e7a-903a-311564e5bca9)
 
 *Figure 2: Hourly trip distribution by month*
-This image shows a stacked bar chart titled "Trips by Hour and Month". The chart displays the total number of trips taken across different hours of the day (0-23 on the x-axis) and months (represented by different colors in the legend).
+This image shows a stacked bar chart titled "Trips by Hour and Month".
+
+The chart displays the total number of trips taken across different hours of the day (0-23 on the x-axis) and months (represented by different colors in the legend).
 
 1. The y-axis represents the total number of trips, ranging from 0 to about 350,000.
 
@@ -66,16 +68,49 @@ This image shows a stacked bar chart titled "Trips by Hour and Month". The chart
 
 This visualization effectively shows both the daily cycle of trip patterns and how these patterns vary across different months of the year, likely reflecting seasonal changes in travel behavior.
 ### 3.2 Daily Analysis <a name="daily-analysis"></a>
+*Figure 3: Trip frequency by day of the month*  
+![Trips Every Day](https://github.com/user-attachments/assets/2ce292c3-184b-485c-a770-277e5d64b12e)
+This bar chart shows the total number of trips taken on each day of a month, titled "Trips Every Day". Here are the key observations:
+
+1. The x-axis represents the days of the month, from 1 to 31, plus an "NA" category.
+
+2. The y-axis shows the total number of trips, ranging from 0 to about 175,000.
+
+3. Most days see between 125,000 and 170,000 trips.
+
+4. There's some variation in trip numbers from day to day, but no clear weekly pattern is immediately apparent.
+
+5. The highest number of trips occurs on day 30, with just over 175,000 trips.
+
+6. The lowest number of trips (excluding NA) is on day 1, with about 125,000 trips.
+
+7. There's a very small bar for the "NA" category, suggesting there are some trips that couldn't be assigned to a specific day.
+
+8. Days 31 and NA have noticeably fewer trips than other days, likely because not all months have 31 days.
+
+9. There's no clear trend of increasing or decreasing trip numbers as the month progresses.
+
+This visualization provides a good overview of daily trip patterns throughout a month, showing that while there is some day-to-day variation, the number of trips remains relatively consistent most days.
 
 We investigated how ride frequency varied across days of the month and across different months.
+![Trips by Day and Month](https://github.com/user-attachments/assets/cee7ee90-466a-427e-a462-e73f400726ed)
+This stacked bar chart titled "Trips by Day and Month" displays the number of trips taken each day, broken down by month. Here are the key observations:
 
-![Trips Every Day]()
+1. The x-axis represents days of the month (1-31) plus an "NA" category.
+2. The y-axis shows the total number of trips, ranging from 0 to about 175,000.
+3. Each bar is divided into colored segments representing different months from April to September, with an additional "NA" category.
+4. July and August (yellow and light gray) consistently have the highest number of trips across most days.
+5. April (red) and May (dark gray) generally have fewer trips compared to the summer months.
+6. September (blue) appears to have the lowest number of trips among the full months shown.
+7. There's variation in trip numbers from day to day, but no clear weekly pattern is immediately apparent.
+8. The 31st day and the "NA" category have noticeably fewer trips, likely because not all months have 31 days.
+9. The total number of trips per day is relatively consistent throughout the month, with most days seeing between 125,000 and 170,000 trips.
+10. There's no clear trend of increasing or decreasing trip numbers as the months progress.
 
-*Figure 3: Trip frequency by day of the month*
-
-![Trips by Day and Month]()
+This visualization effectively shows both the daily patterns of trips and how these patterns vary across different months, likely reflecting seasonal changes in travel behavior.
 
 *Figure 4: Daily trip patterns across months*
+![pic 5](https://github.com/user-attachments/assets/01e13536-3fd1-4380-adf4-3bd96b90adde)
 
 Observations:
 - There's no strong pattern associated with specific days of the month.
