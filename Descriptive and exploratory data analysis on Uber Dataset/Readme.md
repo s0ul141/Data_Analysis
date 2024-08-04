@@ -112,11 +112,20 @@ This visualization effectively shows both the daily patterns of trips and how th
 *Figure 4: Daily trip patterns across months*
 ![pic 5](https://github.com/user-attachments/assets/01e13536-3fd1-4380-adf4-3bd96b90adde)
 
-Observations:
-- There's no strong pattern associated with specific days of the month.
-- Weekends (visible as regular spikes every 7 days) generally show higher ride volumes.
-- Certain days show unexpected spikes or dips, possibly due to events or holidays.
-- The overall trend shows increasing ride volumes from April to September.
+This bar chart titled "Trips by Month" shows the total number of trips taken in each month from April to September, with an additional "NA" category. Here are the key observations:
+
+1. The x-axis represents the months from April to September, plus an "NA" category.
+2. The y-axis shows the total number of trips, ranging from 0 to over 1,000,000.
+3. There's a clear increasing trend in the number of trips from April to September.
+4. September has the highest number of trips, exceeding 1,000,000.
+5. April has the lowest number of trips among the full months, at around 500,000.
+6. The number of trips increases steadily each month from April to August.
+7. There's a significant jump in trips from August to September.
+8. The "NA" category has a very small number of trips compared to the other months.
+9. The summer months (June, July, August) show higher trip numbers compared to the spring months (April, May).
+10. The difference in trip numbers between the lowest month (April) and the highest month (September) is substantial, with September having about twice as many trips as April.
+
+This visualization effectively illustrates the seasonal variation in trip numbers, with a clear trend towards more trips as the months progress from spring to summer and early fall.
 
 ### 3.3 Monthly Analysis <a name="monthly-analysis"></a>
 
