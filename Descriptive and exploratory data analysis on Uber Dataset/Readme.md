@@ -38,22 +38,33 @@ We analyzed the distribution of rides across different hours of the day.
 *Figure 1: Distribution of trips across 24 hours*
 This bar chart shows the number of Uber trips taken during each hour of the day. The x-axis represents the 24 hours of a day, while the y-axis shows the total number of trips. Key observations:
 
-- Peak hours are clearly visible, with the highest number of trips occurring around 6 PM (18:00).
-- There's another significant peak in the morning, around 8 AM (08:00).
-- The lowest number of trips occurs in the early morning hours, between 3 AM and 5 AM.
-- Trip volume gradually increases from early morning, peaks in the evening, and then declines into the night.
+1. Peak hours are clearly visible, with the highest number of trips occurring around 6 PM (18:00).
+2. There's another significant peak in the morning, around 8 AM (08:00).
+3. The lowest number of trips occurs in the early morning hours, between 3 AM and 5 AM.
+4. Trip volume gradually increases from early morning, peaks in the evening, and then declines into the night.
 
 We also examined how hourly patterns changed across different months.
 
-![Trips by Hour and Month]()
+![Trips by Hour and Month](https://github.com/user-attachments/assets/b400a4bb-2b68-4e7a-903a-311564e5bca9)
 
 *Figure 2: Hourly trip distribution by month*
+This image shows a stacked bar chart titled "Trips by Hour and Month". The chart displays the total number of trips taken across different hours of the day (0-23 on the x-axis) and months (represented by different colors in the legend).
 
-Observations:
-- The general pattern of peak hours remains consistent across months.
-- Summer months (June-August) show higher ride volumes, especially during evening hours.
-- April and May have lower overall ride volumes, possibly due to milder weather encouraging alternative transportation.
+1. The y-axis represents the total number of trips, ranging from 0 to about 350,000.
 
+2. Each bar is divided into colored segments representing different months from April to September, with an additional "NA" category.
+
+3. Trip volumes are lowest in the early morning hours (around 2-5 AM) and highest in the late afternoon/evening hours (around 4-7 PM).
+
+4. The busiest months appear to be July and August, represented by the green colors which occupy large portions of the bars during peak hours.
+
+5. There's a clear daily pattern with trip volumes increasing throughout the day, peaking in the evening, and then declining into the night.
+
+6. Weekday commute patterns are visible, with noticeable peaks during morning and evening rush hours.
+
+7. The "NA" category is minimal, suggesting most data points have been successfully categorized by month.
+
+This visualization effectively shows both the daily cycle of trip patterns and how these patterns vary across different months of the year, likely reflecting seasonal changes in travel behavior.
 ### 3.2 Daily Analysis <a name="daily-analysis"></a>
 
 We investigated how ride frequency varied across days of the month and across different months.
