@@ -39,4 +39,7 @@ Results of the analysis for each article are compiled into a DataFrame. Each row
 
 ### Conclusion
 The script successfully extracts text from online articles and performs detailed textual analysis, generating various metrics that can be used for further research and insights. The results are saved to an Excel file for easy access and analysis.
+
+### Pro tip
+Execute the code in colab!!
 """
