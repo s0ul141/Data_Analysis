@@ -131,7 +131,8 @@ This visualization effectively illustrates the seasonal variation in trip number
 
 We examined the overall trend in ride volume across the six months.
 
-![Trips by Month]()
+![pic 6](https://github.com/user-attachments/assets/d283f30d-f972-4bd2-b5b0-9c7d6044b132)
+
 
 *Figure 5: Monthly distribution of trips*
 
