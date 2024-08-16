@@ -146,6 +146,7 @@ Observations:
 We analyzed how ride patterns differed across days of the week and how these patterns changed from month to month.
 
 ![Trips by Day and Month]()
+![pic 7](https://github.com/user-attachments/assets/fc3cf9b6-4448-4752-adca-0cd4c4b8c19f)
 
 *Figure 6: Trip patterns by day of week and month*
 
