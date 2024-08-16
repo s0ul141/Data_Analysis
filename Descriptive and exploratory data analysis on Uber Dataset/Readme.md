@@ -145,8 +145,7 @@ Observations:
 
 We analyzed how ride patterns differed across days of the week and how these patterns changed from month to month.
 
-![Trips by Day and Month]()
-![pic 7](https://github.com/user-attachments/assets/fc3cf9b6-4448-4752-adca-0cd4c4b8c19f)
+![Trips by Day and Month](https://github.com/user-attachments/assets/fc3cf9b6-4448-4752-adca-0cd4c4b8c19f)
 
 *Figure 6: Trip patterns by day of week and month*
 
@@ -159,7 +158,8 @@ Observations:
 
 We investigated the distribution of rides across different Uber bases and how base usage varied over time.
 
-![Trips by Bases]()
+
+![Trips by Bases](https://github.com/user-attachments/assets/98e3b003-a9f8-4723-8de3-76b730414c39)
 
 *Figure 7: Distribution of trips across Uber bases*
 
