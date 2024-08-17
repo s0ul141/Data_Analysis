@@ -150,7 +150,7 @@ We investigated the distribution of rides across different Uber bases and how ba
 
 *Figure 8: Base usage patterns by month*
 
-![Trips by Bases and DayofWeek]()
+![Trips by Bases and DayofWeek](https://github.com/user-attachments/assets/0766c7e3-e003-4adf-af2a-fb21627af8e5)
 
 *Figure 9: Base usage patterns by day of week*
 
