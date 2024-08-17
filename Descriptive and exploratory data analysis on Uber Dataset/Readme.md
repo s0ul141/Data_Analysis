@@ -153,6 +153,8 @@ We investigated the distribution of rides across different Uber bases and how ba
 ![Trips by Bases and DayofWeek](https://github.com/user-attachments/assets/0766c7e3-e003-4adf-af2a-fb21627af8e5)
 
 *Figure 9: Base usage patterns by day of week*
+![pic 9](https://github.com/user-attachments/assets/6f012937-6f8b-4c11-9c52-4582a4b738d9)
+
 
 Observations:
 - Base B02617 handles the highest number of rides, followed by B02598.
