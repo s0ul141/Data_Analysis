@@ -170,8 +170,7 @@ We created several heat maps to visualize complex patterns in the data:
 
 *Figure 10: Heat map of trips by hour and day*
 
-
-
+![Heat Map by Month and Day](https://github.com/user-attachments/assets/bcfc5915-f21a-49c4-96fb-8aa4baa6b503)
 
 *Figure 11: Heat map of trips by month and day*
 
