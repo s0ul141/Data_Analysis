@@ -182,7 +182,7 @@ We created several heat maps to visualize complex patterns in the data:
 
 *Figure 13: Heat map of trips by month and base*
 
-![Heat Map by Bases and Day of Week](https://github.com/user-attachments/assets/64cfcc6d-7a39-4eb2-8450-22e65918823f).
+![Heat Map by Bases and Day of Week](https://github.com/user-attachments/assets/64cfcc6d-7a39-4eb2-8450-22e65918823f)
 
 *Figure 14: Heat map of trips by base and day of week*
 
@@ -197,11 +197,10 @@ Observations:
 
 We mapped the geographical distribution of Uber rides in NYC.
 
-![NYC MAP BASED ON UBER RIDES DURING 2014 (APR-SEP)]()
-
+![NYC MAP BASED ON UBER RIDES DURING 2014 (APR-SEP)](https://github.com/user-attachments/assets/a6bda3da-fdcd-4aa7-b44b-7d0c3340a1ef)
 *Figure 15: Geographical distribution of all Uber rides*
 
-![NYC MAP BASED ON UBER RIDES DURING 2014 (APR-SEP) by BASE]()
+![NYC MAP BASED ON UBER RIDES DURING 2014 (APR-SEP) by BASE](https://github.com/user-attachments/assets/eea5eeca-d4f4-45f9-a96f-54e2b3ae8d26)
 
 *Figure 16: Geographical distribution of Uber rides by base*
 
