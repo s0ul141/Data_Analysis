@@ -182,7 +182,7 @@ We created several heat maps to visualize complex patterns in the data:
 
 *Figure 13: Heat map of trips by month and base*
 
-![Heat Map by Bases and Day of Week]()
+![Heat Map by Bases and Day of Week](https://github.com/user-attachments/assets/64cfcc6d-7a39-4eb2-8450-22e65918823f).
 
 *Figure 14: Heat map of trips by base and day of week*
 
